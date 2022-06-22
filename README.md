@@ -18,4 +18,5 @@ Data Science Demo to predict diabetes by DecisionTreeClassifier
 The Demos tries to predict Diabetes by accuracy of 0.6970%
 
 feature_col_names = num_preg , glucose_conc , diastolic_bp , thickness , insulin , bmi , diab_pred , age , skin
+
 predicted_class_names = Diabetes
