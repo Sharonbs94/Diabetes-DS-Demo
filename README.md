@@ -1,5 +1,5 @@
 # Diabetes-DS-Demo
-Data Science Demo to predict diabetes by DecisionTreeClassifier
+**Data Science Demo to predict diabetes by DecisionTreeClassifier**
 
 
 
